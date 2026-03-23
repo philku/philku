@@ -9,7 +9,7 @@
   - 🌐 [philku.de](https://philku.de) — Personal portfolio with interactive tech demos
 
   #### Background
-  Mathematics (M.Ed.) · IT Project Management · Coding since 2018
+  Mathematics (M.Ed.) · IT Project Management
 
   ---
 
