@@ -1,4 +1,4 @@
-### Hey, I'm Philipp 👋
+  ### Hey, I'm Philipp 👋
 
   Fullstack Developer based in Berlin — building web applications with **Symfony**, **PHP**, **Tailwind CSS**, and **Hotwire (Stimulus/Turbo)**.
 
@@ -10,6 +10,9 @@
 
   #### Background
   Mathematics (M.Ed.) · IT Project Management
+
+  #### What's next
+  Always looking to expand my skill set — currently diving deeper into modern frontend frameworks. Open to collaboration and new opportunities.
 
   ---
 
