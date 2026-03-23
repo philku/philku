@@ -1,17 +1,17 @@
-  ### Hey, I'm Philipp 👋
+  ## Hey, I'm Philipp 👋
 
   Fullstack Developer based in Berlin — building web applications with **Symfony**, **PHP**, **Tailwind CSS**, and **Hotwire (Stimulus/Turbo)**.
 
   Currently exploring **React** and **TypeScript**.
 
-  #### What I'm working on
+  ### What I'm working on
   - 🔧 [tunero.de](https://tunero.de) — Affiliate platform for car parts & tuning (Symfony, Pimcore, eBay API)
   - 🌐 [philku.de](https://philku.de) — Personal portfolio with interactive tech demos
 
-  #### Background
+  ### Background
   Mathematics (M.Ed.) · IT Project Management
 
-  #### What's next
+  ### What's next
   Always looking to expand my skill set — currently diving deeper into modern frontend frameworks. Open to collaboration and new opportunities.
 
   ---
