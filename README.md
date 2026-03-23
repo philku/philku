@@ -1,4 +1,19 @@
-## Hi there 👋
+### Hey, I'm Philipp 👋
+
+  Fullstack Developer based in Berlin — building web applications with **Symfony**, **PHP**, **Tailwind CSS**, and **Hotwire (Stimulus/Turbo)**.
+
+  Currently exploring **React** and **TypeScript**.
+
+  #### What I'm working on
+  - 🔧 [tunero.de](https://tunero.de) — Affiliate platform for car parts & tuning (Symfony, Pimcore, eBay API)
+  - 🌐 [philku.de](https://philku.de) — Personal portfolio with interactive tech demos
+
+  #### Background
+  Mathematics (M.Ed.) · IT Project Management · Coding since 2018
+
+  ---
+
+  📫 **p.kuechau@gmx.de** · [philku.de](https://philku.de)
 
 <!--
 **philku/philku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
