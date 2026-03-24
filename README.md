@@ -9,7 +9,7 @@
   - 🌐 [philku.de](https://philku.de) — Personal portfolio with interactive tech demos
 
   ### Background
-  Mathematics (M.Ed.) · IT Project Management
+  Mathematics · Economics · IT Project Management
 
   ### What's next
   Always looking to expand my skill set — currently diving deeper into modern frontend frameworks. Open to collaboration and new opportunities.
